@@ -54,7 +54,8 @@ This command will generate Bitcoin wallets and save their details in `output/wal
 
 ## Project Structure
 
-btc-wallet-generator/
+```
+dio-lab-btc-wallet/
 │
 ├── output/
 │   └── wallets.json          # Stores generated wallet details
@@ -65,6 +66,7 @@ btc-wallet-generator/
 ├── package.json              # Project metadata and configuration
 ├── package-lock.json         # Describes the exact dependency tree
 └── README.md                 # Project documentation
+```
 
 ## Explanation
 
